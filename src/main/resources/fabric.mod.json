@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "phantomclient",
+  "version": "${version}",
+  "name": "Phantom Client",
+  "description": "Phantom Client: HUD, zoom, fly, speed, fullbright, step e mob aura.",
+  "authors": ["Você"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.phantomclient.PhantomClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

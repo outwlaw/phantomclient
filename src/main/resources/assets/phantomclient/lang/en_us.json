@@ -1,0 +1,11 @@
+{
+  "key.category.phantomclient.main": "Phantom Client",
+  "key.phantomclient.zoom": "Zoom (segurar)",
+  "key.phantomclient.hud": "Alternar HUD",
+  "key.phantomclient.sprint": "Alternar Toggle Sprint",
+  "key.phantomclient.fly": "Alternar Fly",
+  "key.phantomclient.speed": "Alternar Speed",
+  "key.phantomclient.fullbright": "Alternar Fullbright",
+  "key.phantomclient.step": "Alternar Step",
+  "key.phantomclient.aura": "Alternar MobAura"
+}
